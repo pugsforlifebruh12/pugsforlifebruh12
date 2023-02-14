@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pugsforlifebruh12
 - 👀 I’m interested in Furrys and pugs
-- 🌱 I’m currently learning Lua and Java
+- 🌱 I’m currently learning GDScript and Java
 - 📫 How to reach me pugsforlifebruh@gmail.com
 - 🐺 My spirit animal is a wolf
 
